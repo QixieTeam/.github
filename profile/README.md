@@ -1,4 +1,4 @@
-# <img src="https://qixie.tk/ico.svg" width="35px" /> 齐谐者，志怪者也
+# <img src="https://qixie.vercel.app/ico.svg" width="35px" /> 齐谐者，志怪者也
 
 Qixie - 一个致力于诗歌分享的网站 | A website dedicated to poetry sharing
 
